@@ -1,7 +1,7 @@
 # SafyPower App
 
 ## Project Overview
-I developed the SafyPower mobile application using Flutter. This app includes several key functionalities such as user authentication, a home screen, a map displaying station locations, and various informational pages. Below, I explain the steps I took to build this project.
+I developed this mobile application using Flutter. This app includes several key functionalities such as user authentication, a home screen, a map displaying station locations, and various informational pages. Below, I explain the steps I took to build this project.
 
 ## Features Implemented
 1. User Authentication:
@@ -50,7 +50,7 @@ I developed the SafyPower mobile application using Flutter. This app includes se
 - Third-Party Sign-In: I integrated Google, Apple, and email sign-in options.
 
 3. Creating the Home Page:
-- Logo and App Name: I displayed the SafyPower logo and app name with proper styling.
+- Logo and App Name: I displayed the logo and app name with proper styling.
 - Buttons for QR Code and Info: I added buttons for QR code scanning and viewing how the app works.
 - Navigation: I set up navigation to the map and menu pages.
 
@@ -75,4 +75,4 @@ I developed the SafyPower mobile application using Flutter. This app includes se
 
 ## Conclusion
 
-This document provides a comprehensive overview of how I developed the SafyPower app, including user authentication, navigation, and various feature implementations. The project was built using Flutter and integrated with Google Maps for location-based services.
+This document provides a comprehensive overview of how I developed the app, including user authentication, navigation, and various feature implementations. The project was built using Flutter and integrated with Google Maps for location-based services.
