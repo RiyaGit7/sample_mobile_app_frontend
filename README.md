@@ -1,4 +1,4 @@
-# SafyPower App
+# Mobile App UI
 
 ## Project Overview
 I developed this mobile application using Flutter. This app includes several key functionalities such as user authentication, a home screen, a map displaying station locations, and various informational pages. Below, I explain the steps I took to build this project.
